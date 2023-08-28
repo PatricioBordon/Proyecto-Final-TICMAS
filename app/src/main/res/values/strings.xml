@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Proyecto Final</string>
+    <string name="input">Ingresar texto...</string>
+    <string name="input2">Ingresar 2° texto...</string>
+    <string name="title">Proyecto Final</string>
+    <string name="comparar">Comparar</string>
+    <string name="iguales">Ambas cadenas son iguales</string>
+    <string name="diferentes">Ambas cadenas son distintas</string>
+
+</resources>
